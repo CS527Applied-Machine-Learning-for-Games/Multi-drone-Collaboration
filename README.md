@@ -9,6 +9,7 @@ The original code base is from: https://github.com/alex-petrenko/sample-factory
 # gym_art
 
 The original code base is from: https://github.com/amolchanov86/gym_art
+Our repo is: https://github.com/Zhehui-Huang/gym_art/tree/cs527
 
 ### Our contributions:
 #### Extended single-drone simulator, gym_art, to multi-drone simulator
