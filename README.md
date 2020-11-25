@@ -11,7 +11,7 @@ The original code base is from: https://github.com/alex-petrenko/sample-factory
 The original code base is from: https://github.com/amolchanov86/gym_art
 
 ### Our contributions:
-#### Extended single-drone simulator, gym_art[1],  to multi-drone simulator
+#### Extended single-drone simulator, gym_art, to multi-drone simulator
 #### Added obstacles to the simulator
 #### Implemented 6 interesting scenarios, circular configuration scenario, static goal scenario, dynamic goal scenario, pattern composing scenario, pursuit-evasion scenario, dynamic obstacle scenario 
 #### Created a camera for global visualization
